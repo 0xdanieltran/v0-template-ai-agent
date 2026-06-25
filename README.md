@@ -1,5 +1,8 @@
 # v0-template-ai-agent
 
+<img width="1531" height="737" alt="image" src="https://github.com/user-attachments/assets/42fb63ef-5150-4261-aeca-d592ab23dbc9" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
 
 ## Built with v0
